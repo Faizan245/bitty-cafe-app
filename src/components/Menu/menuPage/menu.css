@@ -1,0 +1,19 @@
+.active {
+    color: #3053d0;
+    font-family: serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 23px;
+    
+    opacity: 1 !important;
+    
+  }
+  .active .tab {
+    opacity: 1;
+  }
+  .tab {
+    opacity: 0.5;
+  }
+  
